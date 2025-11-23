@@ -342,7 +342,7 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#000"
+    background = "#000000D9"
     foreground = "#3c8dff"
 	highlight = "#722ae6, #e4b5cb"
     timeout = 20
@@ -350,7 +350,7 @@
     #default_icon = dialog-information
 
 [urgency_normal]
-    background = "#000"
+    background = "#000000D9"
     foreground = "#3c8dff"
 	frame_color = "#3c8dff"
 	highlight = "#722ae6, #e4b5cb"
@@ -360,7 +360,7 @@
     default_icon = dialog-information
 
 [urgency_critical]
-    background = "#000"
+    background = "#000000D9"
     foreground = "#3c8dff"
     frame_color = "#3c8dff"
 	highlight = "#d54e53, #f0f0f0"
