@@ -25,7 +25,7 @@
     # dynamic width from 0 to 300
     # width = (0, 300)
     # constant width of 300
-    width = (0, 200)
+    width = (0, 300)
 
     # The height of a single notification, excluding the frame.
     # dynamic height from 0 to 300
@@ -145,7 +145,7 @@
 
     ### Text ###
 
-    font = IosevkaTerm Nerd Font Mono 9
+    font = IosevkaTerm Nerd Font Mono 9, Noto Color Emoji 9
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
